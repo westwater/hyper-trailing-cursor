@@ -1,0 +1,22 @@
+{
+  "name": "hyper-trailing-cursor",
+  "version": "0.0.1",
+  "description": "Let Hyper's cursor have a trailing effect",
+  "main": "index.js",
+  "repository": "westwater/hyper-trailing-cursor",
+  "author": "George Westwater <gmwestwater@hotmail.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.throttle": "4.1.1",
+    "color": "0.11.3",
+    "convert-css-color-name-to-hex": "0.1.1",
+    "lodash.values": "4.3.0"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-plugin",
+    "plugin",
+    "cursor",
+    "trailing"
+  ]
+}
